@@ -1,0 +1,359 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="sV8E-TiqWK5N0-A9YeQD">
+    <mxGraphModel dx="2712" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;STUDENTE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;email&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;nome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;DOCENTE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;INSEGNAMENTO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;codiceInsegnamento&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;cognome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;codiceFiscale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;dataNascita&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;matricola&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="9.860000000000014" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;email&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;nome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;cognome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;codiceFiscale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;dataNascita&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;PROFILO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;password&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;dataCreazione&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;fotoProfilo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;INSEGNA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-43" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500.14" y="520" />
+              <mxPoint x="-680.14" y="520" />
+              <mxPoint x="-680.14" y="200" />
+              <mxPoint x="-560.14" y="200" />
+            </Array>
+            <mxPoint x="-420.14" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(255, 204, 153);&quot;&gt;email&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-44" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380.14" y="530" />
+              <mxPoint x="-670.14" y="530" />
+              <mxPoint x="-670.14" y="360" />
+              <mxPoint x="-560.14" y="360" />
+            </Array>
+            <mxPoint x="-170.14" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;codiceInsegnamento&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="QUMOBFJWpX_cH_4hQ4pQ-1" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.86" y="40" />
+              <mxPoint x="-700.14" y="40" />
+              <mxPoint x="-700.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+            <mxPoint x="-180.14" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="129.86" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="QUMOBFJWpX_cH_4hQ4pQ-2" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99.86000000000001" y="210" />
+              <mxPoint x="-700.14" y="210" />
+              <mxPoint x="-700.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="9.860000000000014" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;INVITO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-47" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-500" y="820" />
+              <mxPoint x="-500" y="840" />
+              <mxPoint x="-720" y="840" />
+              <mxPoint x="-720" y="690" />
+              <mxPoint x="-560" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;usernameSender&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-48" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="820" />
+              <mxPoint x="-380" y="840" />
+              <mxPoint x="-720" y="840" />
+              <mxPoint x="-720" y="690" />
+              <mxPoint x="-560" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;usernameReceiver&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;PARTECIPAZIONE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;saldoPersonale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;dataEntrata&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;GRUPPO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;idGruppo&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;nome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;immagineGruppo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;spesaTotale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;descrizione&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;dataCreazione&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="9.860000000000014" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-63" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260.14" y="1160" />
+              <mxPoint x="-740.14" y="1160" />
+              <mxPoint x="-740.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-64" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140.14" y="1170" />
+              <mxPoint x="-750.14" y="1170" />
+              <mxPoint x="-750.14" y="1010" />
+              <mxPoint x="-560.14" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 255);&quot;&gt;idGruppo&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-66" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.86" y="1000" />
+              <mxPoint x="-760.14" y="1000" />
+              <mxPoint x="-760.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;usernameProprietario&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="129.86" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;SPESA_PERSONALE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC99FF;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;SPESA_COMUNE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;idSpesa&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;descrizione&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;orario&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;importoTotale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-79" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99.86000000000001" y="1320" />
+              <mxPoint x="-780.14" y="1320" />
+              <mxPoint x="-780.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+            <mxPoint x="-890.14" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="9.860000000000014" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-80" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.86" y="1330" />
+              <mxPoint x="-790.14" y="1330" />
+              <mxPoint x="-790.14" y="1010" />
+              <mxPoint x="-560.14" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 255);&quot;&gt;idGruppo&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="129.86" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u&gt;idSpesa&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;descrizione&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;orario&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;importoTotale&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;pagante&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="9.860000000000014" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-95" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219.86" y="1480" />
+              <mxPoint x="-810.14" y="1480" />
+              <mxPoint x="-810.14" y="1010" />
+              <mxPoint x="-560.14" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 255);&quot;&gt;idGruppo&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="129.86" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;b&gt;QUOTA_SPESA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;quota&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-590.14" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-100" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380.14" y="1640" />
+              <mxPoint x="-830.14" y="1640" />
+              <mxPoint x="-830.14" y="690" />
+              <mxPoint x="-560.14" y="690" />
+            </Array>
+            <mxPoint x="-920.14" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 153);&quot;&gt;username&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-470.14" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-101" edge="1" parent="1" source="isG3hTzp_4TyhTJ5wb3N-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260.14" y="1650" />
+              <mxPoint x="-840.14" y="1650" />
+              <mxPoint x="-840.14" y="1490" />
+              <mxPoint x="-560.14" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isG3hTzp_4TyhTJ5wb3N-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(204, 153, 255);&quot;&gt;idSpesa&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="HA4k7dsJNqYLlFfVrQI9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-230.14" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="HA4k7dsJNqYLlFfVrQI9-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;stato&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-110.13999999999999" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ00PNZdO3UDuwASbsNG-4" edge="1" parent="1" source="cQ00PNZdO3UDuwASbsNG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="isG3hTzp_4TyhTJ5wb3N-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="850" />
+              <mxPoint x="-720" y="850" />
+              <mxPoint x="-720" y="1010" />
+              <mxPoint x="-560" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cQ00PNZdO3UDuwASbsNG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;libertine&quot;&gt;&lt;u style=&quot;background-color: rgb(153, 255, 255);&quot;&gt;idGruppo&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-350.14" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

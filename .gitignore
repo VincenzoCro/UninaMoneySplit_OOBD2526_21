@@ -1,0 +1,9 @@
+# Ignora tutti i file compilati
+*.class
+
+# Ignora le directory di output di Eclipse
+bin/
+
+# Ignora configurazioni locali dell'ambiente ed eventuali log
+.metadata/
+*.log
