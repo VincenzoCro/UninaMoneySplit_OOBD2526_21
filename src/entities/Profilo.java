@@ -1,7 +1,8 @@
 package entities;
 
 import java.sql.Date;
-import java.util.ArrayList;
+
+import java.util.List;
 
 public class Profilo {
 
@@ -9,10 +10,10 @@ public class Profilo {
 	private String username;
 	private char[] password;
 	private Date dataCreazione;
-	public String percorsoFotoProfilo;
+	private String percorsoImmagineProfilo;
 	
-	private ArrayList<Partecipazione> partecipazioni;
-	private ArrayList<Invito> invitiMandati;
-	private ArrayList<Invito> invitiRicevuti;
+	private List<Partecipazione> partecipazioni;
+	private List<Invito> invitiMandati;
+	private List<Invito> invitiRicevuti;
 	
 }

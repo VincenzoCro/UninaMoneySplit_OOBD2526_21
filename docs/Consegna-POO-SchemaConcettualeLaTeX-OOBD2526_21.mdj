@@ -213,7 +213,7 @@
 											"top": 1162,
 											"width": 183,
 											"height": 13,
-											"text": "-FotoProfilo: String[1..*]",
+											"text": "-ImmagineProfilo: String[1..*]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -419,7 +419,7 @@
 											"top": 1102,
 											"width": 228.24609375,
 											"height": 13,
-											"text": "-idGruppo: Long[0..*] {id}",
+											"text": "-id: Long[0..*] {id}",
 											"horizontalAlignment": 0
 										},
 										{
@@ -792,7 +792,7 @@
 											"top": 1334,
 											"width": 147.3388671875,
 											"height": 13,
-											"text": "-idInvito: Long[0..*]",
+											"text": "-id: Long[0..*]",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1615,7 +1615,7 @@
 											"top": 1358,
 											"width": 174.7734375,
 											"height": 13,
-											"text": "-idSpesa: Long[0..1] {id}",
+											"text": "-id: Long[0..1] {id}",
 											"horizontalAlignment": 0
 										},
 										{
@@ -16038,7 +16038,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGdubjwd5UK0kM="
 							},
-							"name": "FotoProfilo",
+							"name": "ImmagineProfilo",
 							"visibility": "private",
 							"type": "String",
 							"multiplicity": "1..*"
@@ -16152,7 +16152,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGducBKlZ2oRBQ="
 							},
-							"name": "idGruppo",
+							"name": "id",
 							"visibility": "private",
 							"type": "Long",
 							"multiplicity": "0..*",
@@ -16442,7 +16442,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGdudW2dMWrLEU="
 							},
-							"name": "idInvito",
+							"name": "id",
 							"visibility": "private",
 							"type": "Long",
 							"multiplicity": "0..*"
@@ -16593,7 +16593,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGduxmTq5cNj/I="
 							},
-							"name": "idSpesa",
+							"name": "id",
 							"visibility": "private",
 							"type": "Long",
 							"multiplicity": "0..1",
