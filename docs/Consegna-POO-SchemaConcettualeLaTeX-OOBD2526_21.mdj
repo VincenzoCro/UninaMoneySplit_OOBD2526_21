@@ -14747,18 +14747,19 @@
 									"model": {
 										"$ref": "AAAAAAGh4BJ6lt6xAaA="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1299,
+									"left": 1296,
 									"top": 632,
+									"width": 7.22998046875,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
 									"hostEdge": {
 										"$ref": "AAAAAAGh4BJ6l960Fsw="
 									},
-									"edgePosition": 2
+									"edgePosition": 2,
+									"text": "0"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -15029,18 +15030,19 @@
 									"model": {
 										"$ref": "AAAAAAGh4BLhoQso08U="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1571,
+									"left": 1568,
 									"top": 508,
+									"width": 7.22998046875,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
 									"hostEdge": {
 										"$ref": "AAAAAAGh4BLhogsrxrk="
 									},
-									"edgePosition": 2
+									"edgePosition": 2,
+									"text": "0"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -15311,18 +15313,19 @@
 									"model": {
 										"$ref": "AAAAAAGh4BMmyzk0XoI="
 									},
-									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 2147,
+									"left": 2144,
 									"top": 692,
+									"width": 7.22998046875,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
 									"hostEdge": {
 										"$ref": "AAAAAAGh4BMmzDk3ea8="
 									},
-									"edgePosition": 2
+									"edgePosition": 2,
+									"text": "0"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -18020,7 +18023,8 @@
 								},
 								"reference": {
 									"$ref": "AAAAAAGenJoI3HBNvnA="
-								}
+								},
+								"multiplicity": "0"
 							},
 							"end2": {
 								"_type": "UMLAssociationEnd",
@@ -18373,7 +18377,8 @@
 								},
 								"reference": {
 									"$ref": "AAAAAAGenJozQXNLndw="
-								}
+								},
+								"multiplicity": "0"
 							},
 							"end2": {
 								"_type": "UMLAssociationEnd",
@@ -18774,7 +18779,8 @@
 								},
 								"reference": {
 									"$ref": "AAAAAAGenJpW7XZGFLo="
-								}
+								},
+								"multiplicity": "0"
 							},
 							"end2": {
 								"_type": "UMLAssociationEnd",
