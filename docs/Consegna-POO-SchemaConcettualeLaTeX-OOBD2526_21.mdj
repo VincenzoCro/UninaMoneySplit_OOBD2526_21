@@ -177,7 +177,7 @@
 											"top": 1132,
 											"width": 183,
 											"height": 13,
-											"text": "-Password: array<char>[1..*]",
+											"text": "-Password: char[][1..*]",
 											"horizontalAlignment": 0
 										},
 										{
@@ -828,7 +828,7 @@
 											"top": 1364,
 											"width": 147.3388671875,
 											"height": 13,
-											"text": "-Stato: Boolean[0..2]",
+											"text": "-Stato: StatoInvito[0..2]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -16018,7 +16018,7 @@
 							},
 							"name": "Password",
 							"visibility": "private",
-							"type": "array<char>",
+							"type": "char[]",
 							"multiplicity": "1..*"
 						},
 						{
@@ -16466,7 +16466,7 @@
 							},
 							"name": "Stato",
 							"visibility": "private",
-							"type": "Boolean",
+							"type": "StatoInvito",
 							"multiplicity": "0..2"
 						}
 					]
