@@ -1537,7 +1537,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1335,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "Spesa"
 										},
@@ -1575,7 +1575,7 @@
 									"parentStyle": true,
 									"left": 1528,
 									"top": 1328,
-									"width": 184.7734375,
+									"width": 193.79345703125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGduxmTrJcRVj4="
@@ -1613,7 +1613,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1358,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "-id: Long[0..1] {id}",
 											"horizontalAlignment": 0
@@ -1631,7 +1631,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1373,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "-Descrizione: String[1..*]",
 											"horizontalAlignment": 0
@@ -1649,7 +1649,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1388,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "-Data: Date[1..*]",
 											"horizontalAlignment": 0
@@ -1667,7 +1667,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1403,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "-Orario: Time[1..*]",
 											"horizontalAlignment": 0
@@ -1685,7 +1685,7 @@
 											"parentStyle": true,
 											"left": 1533,
 											"top": 1418,
-											"width": 174.7734375,
+											"width": 183.79345703125,
 											"height": 13,
 											"text": "-ImportoTotale: DOUBLE[1..*]",
 											"horizontalAlignment": 0
@@ -1733,7 +1733,7 @@
 									"parentStyle": true,
 									"left": 1528,
 									"top": 1353,
-									"width": 184.7734375,
+									"width": 193.79345703125,
 									"height": 83
 								},
 								{
@@ -1749,7 +1749,7 @@
 									"parentStyle": true,
 									"left": 1528,
 									"top": 1436,
-									"width": 184.7734375,
+									"width": 193.79345703125,
 									"height": 10
 								},
 								{
@@ -1792,7 +1792,7 @@
 							"containerChangeable": true,
 							"left": 1528,
 							"top": 1328,
-							"width": 183.7734375,
+							"width": 192.79345703125,
 							"height": 133,
 							"nameCompartment": {
 								"$ref": "AAAAAAGduxmTrJcQfjU="
@@ -2155,7 +2155,7 @@
 											"top": 1774,
 											"width": 181.29248046875,
 											"height": 13,
-											"text": "«derive»-Quota: DOUBLE[1..*]",
+											"text": "-Quota: BigDecimal[1..*]",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3335,7 +3335,7 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1728,
+									"left": 1737,
 									"top": 1401,
 									"width": 61.08984375,
 									"height": 13,
@@ -3358,7 +3358,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1740,
+									"left": 1749,
 									"top": 1416,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -3378,7 +3378,7 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1724,
+									"left": 1733,
 									"top": 1375,
 									"width": 19.5126953125,
 									"height": 13,
@@ -3432,7 +3432,7 @@
 							"tail": {
 								"$ref": "AAAAAAGducBKlp2qNME="
 							},
-							"points": "1880:1245;1880:1394;1712:1394",
+							"points": "1880:1245;1880:1394;1721:1394",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGego8IxOmFS+U="
@@ -12789,7 +12789,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1851,
+									"left": 1855,
 									"top": 1443,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -12811,7 +12811,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1851,
+									"left": 1855,
 									"top": 1458,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -12833,7 +12833,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 1852,
+									"left": 1856,
 									"top": 1413,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -12852,7 +12852,7 @@
 							"tail": {
 								"$ref": "AAAAAAGeoT9wudywftI="
 							},
-							"points": "1992:1434;1712:1434",
+							"points": "1992:1434;1721:1434",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGeoT+4ieXbpqY="
@@ -16831,9 +16831,8 @@
 								"$ref": "AAAAAAGdzeU7p5Mv79Q="
 							},
 							"name": "Quota",
-							"stereotype": "derive",
 							"visibility": "private",
-							"type": "DOUBLE",
+							"type": "BigDecimal",
 							"multiplicity": "1..*"
 						}
 					]
