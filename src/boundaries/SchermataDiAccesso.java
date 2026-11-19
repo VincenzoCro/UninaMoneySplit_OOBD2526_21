@@ -7,6 +7,7 @@ import javax.swing.JTextField;
 import controllers.ControllerAccesso;
 
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
@@ -47,16 +48,24 @@ public class SchermataDiAccesso extends JPanel {
 		JButton btnAccedi = new JButton("Accedi");
 		btnAccedi.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				/*try {
+				try {
 					controllerAccesso.loginProfilo(tfUsername.getText(), pfPassword.getPassword());
 				}
 				catch (Exception ex) {
 					
-				}*/
+				}
 			}
 		});
 		add(btnAccedi, "cell 1 3,alignx center");
 
+	}
+
+	public void mostraErrore(String messaggio) {
+		JOptionPane.showMessageDialog(this, messaggio, "Errore di accesso", JOptionPane.ERROR_MESSAGE);
+	}
+
+	public void mostraInfo(String messaggio) {
+		JOptionPane.showMessageDialog(this, messaggio, "Successo", JOptionPane.INFORMATION_MESSAGE);
 	}
 
 }

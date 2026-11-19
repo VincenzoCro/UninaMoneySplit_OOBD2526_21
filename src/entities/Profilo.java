@@ -17,6 +17,11 @@ public class Profilo {
 	private List<Invito> invitiMandati;
 	private List<Invito> invitiRicevuti;
 	
+	public Profilo(String username, char[] password) {
+		this.username = username;
+		this.password = password;
+	}
+	
 	@Override
 	public int hashCode() {
 		return Objects.hash(username);
@@ -31,6 +36,16 @@ public class Profilo {
 			return false;
 		Profilo other = (Profilo) obj;
 		return Objects.equals(username, other.username);
+	}
+
+	public String getUsername() {
+		// TODO Auto-generated method stub
+		return username;
+	}
+
+	public char[] getPassword() {
+		// TODO Auto-generated method stub
+		return password;
 	}
 	
 	
