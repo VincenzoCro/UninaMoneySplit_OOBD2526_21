@@ -4,6 +4,7 @@ import boundaries.MainFrame;
 import boundaries.SchermataDiAccesso;
 import dao.ProfiloDAO;
 import entities.SessioneUtente;
+import exceptions.CredenzialiErrateException;
 
 public class ControllerAccesso {
 	
@@ -27,6 +28,21 @@ public class ControllerAccesso {
 
 	public void loginProfilo(String username, char[] password) {
 		
+		
+		
+		
+	}
+	
+	private void validaCredenziali(String username, char[] password) throws CredenzialiErrateException{
+		
+		if (username == null || username.isBlank())
+			throw new CredenzialiErrateException("Inserire username.");
+		
+		if(password == null || password.length == 0) {
+			throw new CredenzialiErrateException("Inserire password.");
+		}
+		
+		//Regole sulla lunghezza dei campi future
 		
 	}
 
